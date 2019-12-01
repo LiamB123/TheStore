@@ -1,1 +1,1 @@
-web: gunicorn retro_jerseys.wsgi:application
+web: gunicorn TheStore.wsgi:application
